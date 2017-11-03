@@ -12,7 +12,6 @@
  */
 
 import Foundation
-import ElectrodeContainer
 
 /**
  * This class is a generated place holder for your Movies implementations.!
